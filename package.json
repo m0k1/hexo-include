@@ -1,16 +1,16 @@
 {
-  "name": "hexo-include",
-  "version": "1.1.0",
-  "description": "A Hexo plugin for including raw content of any text file into a post",
+  "name": "hexo-include-remote",
+  "version": "1.0.0",
+  "description": "A Hexo plugin for including raw content of any HTTP/S url into a post",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pirtleshell/hexo-include.git"
+    "url": "git+https://github.com/m0k1/hexo-include-remote.git"
   },
   "author": {
-    "name": "Robert Pirtle",
-    "email": "astropirtle@gmail.com",
-    "url": "pirtle.xyz"
+    "name": "Moki Ding",
+    "email": "moki.forum@gmail.com",
+    "url": "https://m0k1.net"
   },
   "main": "lib/index.js",
   "keywords": [
@@ -20,9 +20,9 @@
     "insert"
   ],
   "bugs": {
-    "url": "https://github.com/pipirt/hexo-include/issues"
+    "url": "https://github.com/m0k1/hexo-include-remote/issues"
   },
-  "homepage": "https://github.com/pipirt/hexo-include#readme",
+  "homepage": "https://github.com/m0k1/hexo-include-remote#readme",
   "devDependencies": {
     "babel-register": "^6.16.3",
     "chai": "^3.5.0",
