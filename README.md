@@ -6,7 +6,7 @@ A [Hexo](https://github.com/hexojs/hexo) plugin for including the raw content of
 
 Insert the following into the post's markdown where you want the contents of the remote-url inserted. You can use both HTTP or HTTPS !
 ```
-{% include-remote path/to/file.bar %}
+{% include-remote https://example.com/url/to/file %}
 ```
 
 ## Install
