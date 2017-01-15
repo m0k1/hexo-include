@@ -17,7 +17,8 @@
     "hexo",
     "tag",
     "include",
-    "insert"
+    "insert",
+    "remote-url"
   ],
   "bugs": {
     "url": "https://github.com/m0k1/hexo-include-remote/issues"
