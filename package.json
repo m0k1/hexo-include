@@ -1,6 +1,6 @@
 {
   "name": "hexo-include-remote",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A Hexo plugin for including raw content of any HTTP/S url into a post",
   "license": "MIT",
   "repository": {
