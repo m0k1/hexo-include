@@ -1,6 +1,6 @@
 {
   "name": "hexo-include-remote",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Hexo plugin for including raw content of any HTTP/S url into a post",
   "license": "MIT",
   "repository": {
@@ -24,6 +24,9 @@
     "url": "https://github.com/m0k1/hexo-include-remote/issues"
   },
   "homepage": "https://github.com/m0k1/hexo-include-remote#readme",
+  "dependencies": {
+  "xmlhttprequest": "^1.8.0"
+  },
   "devDependencies": {
     "babel-register": "^6.16.3",
     "chai": "^3.5.0",
